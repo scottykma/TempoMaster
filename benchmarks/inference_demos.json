@@ -1,0 +1,98 @@
+{
+    "tempomaster_000": {
+        "prompt": "The camera follows the F1 car as it accelerates through the track. The car maintains high speed, showcasing the dynamic motion and the driver's skill in challenging conditions.",
+        "ref_images": {
+            "0": "assets/tempomaster_000.jpg"
+        }
+    },
+    "tempomaster_001": {
+        "prompt": "The camera slowly zooms in, gradually focusing on an astronaut riding a glowing horse. The astronaut remains seated as the horse steadily walks across the waves.",
+        "ref_images": {
+            "0": "assets/tempomaster_001.png"
+        }
+    },
+    "tempomaster_002": {
+        "prompt": "a couple of horses are running in the dirt",
+        "ref_images": {
+            "0": "assets/tempomaster_002.jpg"
+        }
+    },
+    "tempomaster_003": {
+        "prompt": "A champagne flute filled with golden liquid, inside which a miniature Titanic model slowly sinks through shimmering bubbles. The ship tilts gently as it descends, leaving a trail of tiny bubbles rising upward. Warm light from a nearby window casts a soft glow across the glass, highlighting the intricate details of the miniature. In the background, out-of-focus Christmas lights create a bokeh effect, twinkling softly. The liquid surface ripples slightly, reflecting the ambient light and enhancing the scene’s delicate motion.",
+        "ref_images": {
+            "0": "assets/tempomaster_003.png"
+        }
+    },
+    "tempomaster_004": {
+        "prompt": "A crusader knight in weathered armor walks through dense, misty woods, his helmet reflecting faint moonlight as he moves forward. Tree shadows shift eerily in the fog, cast by the low-hanging moon. The camera follows behind, tracking his slow, deliberate steps. As he approaches, the camera rises to reveal an abandoned church emerging from the forest, its stone walls covered in thick vines and moss, illuminated by a soft glow from the moonlight filtering through the canopy. The scene is quiet, with mist drifting across the ground and leaves rustling gently in the breeze.",
+        "ref_images": {
+            "0": "assets/tempomaster_004.png"
+        }
+    },
+    "tempomaster_005": {
+        "prompt": "A specialized snow rover glides smoothly across a pristine polar landscape, its wheels leaving minimal tracks in the untouched snow. Inside the high-tech cockpit, a team of scientists, dressed in advanced thermal suits, monitor atmospheric data with focused expressions. They occasionally exchange smiles as they marvel at the serene beauty of the vast, silent polar ice fields bathed in the soft, pale light of the winter sun. The interior of the rover is equipped with sophisticated instruments and displays, reflecting the cutting-edge technology used for scientific research in extreme conditions. The camera captures the scientists from various angles, highlighting their concentration and the breathtaking surroundings. The exterior shots showcase the expansive, undisturbed polar terrain, emphasizing the isolation and majesty of the environment.",
+        "ref_images": {
+            "0": "assets/tempomaster_005.png"
+        }
+    },
+    "tempomaster_006": {
+        "prompt": "A hand enters from the right, grasps the spoon, and stirs the cereal in the bowl, creating gentle ripples in the milk.",
+        "ref_images": {
+            "0": "assets/tempomaster_006.jpg"
+        }
+    },
+    "tempomaster_007": {
+        "prompt": "The camera follows the giraffe as it walks from the left, steps onto the nightstand, and sits atop the stacked books, its head tilting slightly as if reading.",
+        "ref_images": {
+            "0": "assets/tempomaster_007.jpg"
+        }
+    },
+    "tempomaster_008": {
+        "prompt": "The camera slowly circles the dog, capturing its joyful expression as it sits in the grass, tongue out, while wind gently sways the blades around it.",
+        "ref_images": {
+            "0": "assets/tempomaster_008.jpg"
+        }
+    },
+    "tempomaster_009": {
+        "prompt": "The bus sways side to side as the giant duck turns its head, scanning the passengers who remain oblivious. The duck then pulls out a smartphone, glances down, and begins scrolling through the screen.",
+        "ref_images": {
+            "0": "assets/tempomaster_009.jpg"
+        }
+    },
+    "tempomaster_010": {
+        "prompt": "A red monster truck leaps over a wooden ramp, soaring through the air. The camera follows its trajectory, capturing the dynamic jump against a blurred backdrop of grass and trees. As the truck lands, the camera pans upward, revealing a small plastic soldier emerging from the driver's seat.",
+        "ref_images": {
+            "0": "assets/tempomaster_010.jpg"
+        }
+    },
+    "tempomaster_011": {
+        "prompt": "A rider in orange and black gear accelerates on an ATV, kicking up a massive cloud of dust as they navigate a rugged dirt track. The camera follows the vehicle from a low angle, capturing the intense motion and the rider's focused posture as they lean into the turn. The dusty trail and the powerful movement of the ATV emphasize the high-energy off-road adventure.",
+        "ref_images": {
+            "0": "assets/tempomaster_011.png"
+        }
+    },
+    "tempomaster_012": {
+        "prompt": "A heron soars low over a lush green field, wings spread wide as it carries a fish in its beak. Its long legs trail behind, and the camera follows its flight from left to right, capturing the bird’s graceful motion against a soft blue sky. The heron maintains steady flight, showcasing its hunting success as it glides over vibrant vegetation.",
+        "ref_images": {
+            "0": "assets/tempomaster_012.png"
+        }
+    },
+    "tempomaster_013": {
+        "prompt": "The camera pans across a vibrant coastal town clinging to a rocky cliff, its colorful buildings cascading toward the turquoise sea. Yellow flowers sway gently in the foreground as the camera moves forward, revealing the town’s intricate layout and the rugged coastline. The view shifts upward, capturing the sunlit cliffs and distant mountains, emphasizing the harmony between nature and architecture.",
+        "ref_images": {
+            "0": "assets/tempomaster_013.png"
+        }
+    },
+    "tempomaster_014": {
+        "prompt": "A hamster wearing sunglasses floats calmly in an orange life preserver on the ocean, its paws resting on the rim as gentle waves ripple around. The camera circles slowly, capturing the hamster’s relaxed expression and the shimmering water under a bright sky. Sunlight glints off the waves, highlighting the playful, serene moment as the hamster basks in the sun.",
+        "ref_images": {
+            "0": "assets/tempomaster_014.png"
+        }
+    },
+    "tempomaster_015": {
+        "prompt": "The camera slowly pans across a tranquil pond, revealing a traditional Chinese pavilion with red-tiled roofs and white pillars. It glides forward, capturing the pavilion’s reflection shimmering in the water. The camera tilts upward, emphasizing the ornate roof against a sky of drifting clouds. Gentle ripples disturb the surface as the camera moves closer, highlighting the structure’s intricate details and the surrounding lush green trees swaying in the breeze.",
+        "ref_images": {
+            "0": "assets/tempomaster_015.png"
+        }
+    }
+}

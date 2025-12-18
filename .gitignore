@@ -1,0 +1,6 @@
+encoders/
+__pycache__
+*.pyc
+*.bin
+*.pth
+*.mp4
