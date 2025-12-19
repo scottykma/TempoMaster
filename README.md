@@ -88,7 +88,7 @@ python infer.py --world-size 8
 
 The inference config is listed in `inference_configs.json`.
 
-```json
+```python
 "inference_configs": {
         "height": 480, 
         "width": 832,
