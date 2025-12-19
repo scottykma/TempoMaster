@@ -19,7 +19,7 @@ This approach effectively structures long-term temporal dynamics and mitigates t
   <tr>
     <td align="center" width="832">
       <video 
-        src="https://scottykma.github.io/tempomaster-gitpage/static/videos/horse_seed_42_cfg5&3_shift_8&6_step_50&32_0.mp4" 
+        src="https://github.com/user-attachments/assets/f9bda3ed-a7ba-4b88-8343-45f95b259e74" 
         controls 
         style="max-width:100%;">
       </video>
@@ -35,7 +35,7 @@ This approach effectively structures long-term temporal dynamics and mitigates t
   <tr>
     <td align="center" width="832">
       <video 
-        src="https://scottykma.github.io/tempomaster-gitpage/static/videos/horse_seed_42_cfg5&3_shift_8&6_step_50&32_1.mp4" 
+        src="https://github.com/user-attachments/assets/5398139e-8e2d-4950-82fd-3bdeeedcd6b3" 
         controls 
         style="max-width:100%;">
       </video>
